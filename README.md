@@ -7,7 +7,7 @@ It says to download the pcl wheel file from github:  https://github.com/barrygxw
 pip install <the downloaded file>
 Test by running import pcl in a python file or in terminal: python
   
-Another method could be as suggested here: https://stackoverflow.com/questions/56822397/trouble-met-when-installing-pcl-on-ubuntu-18-04
+For installing PCL 1.9, we might need another method as suggested here: https://stackoverflow.com/questions/56822397/trouble-met-when-installing-pcl-on-ubuntu-18-04
 It suggests following procedure:
 ```
 git clone https://github.com/PointCloudLibrary/pcl pcl-trunk
