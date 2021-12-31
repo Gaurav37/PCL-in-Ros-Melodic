@@ -6,3 +6,5 @@ It says to download the pcl wheel file from github:  https://github.com/barrygxw
 
 pip install <the downloaded file>
 Test by running import pcl in a python file or in terminal: python
+  
+Another method could be as suggested here: https://stackoverflow.com/questions/56822397/trouble-met-when-installing-pcl-on-ubuntu-18-04
