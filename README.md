@@ -8,7 +8,11 @@ pip install <the downloaded file>
 Test by running import pcl in a python file or in terminal: python
   
 Another method could be as suggested here: https://stackoverflow.com/questions/56822397/trouble-met-when-installing-pcl-on-ubuntu-18-04
-After running make, run below command for system wide access.
+It suggests following procedure:
 ```
+git clone https://github.com/PointCloudLibrary/pcl pcl-trunk
+cd pcl-trunk && mkdir build && cd build
+cmake ..
+make
 sudo make install
 ```
