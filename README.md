@@ -16,3 +16,7 @@ cmake ..
 make
 sudo make install
 ```
+If ros error:
+```
+  sudo apt-get install libvtk7-jni libvtk7-java libvtk7-dev libvtk7-qt-dev libpcl-dev ros-melodic-pcl-ros ros-melodic-pcl-conversions ros-melodic-perception-pcl ros-melodic-perception ros-melodic-desktop-full
+```
